@@ -1,7 +1,7 @@
 # Introduction to Web Development
 * You can try as many as Programming languages but focus on one from Contribution point of view.
 * Here is step by step guide from Mozilla itself: [Learn WedDev](https://developer.mozilla.org/en-US/docs/Learn)
-* What you do when you have following skills:
+* What to do when you have following skills:
   
   * System/Desktop/Platform Based:
     * If you know [C++](https://whatcanidoformozilla.org/#!/progornoprog/proglang/cpp/), you can contribute to the core layers of Firefox and other Mozilla products.
@@ -17,7 +17,7 @@
     * If you know [PHP](https://whatcanidoformozilla.org/#!/progornoprog/proglang/php/), you can contribute to wordpress and bugzilla design.
 
 * If you have learnt a language and looking for bugs to solve, refer [my Quora answer](https://www.quora.com/What-should-I-learn-next-to-contribute-to-Mozilla-Code-Base/answer/Mayur-Patil-8).
-* You can also read my other answers here
+* You can also read my other answers [here](https://www.quora.com/profile/Mayur-Patil-8/answers/Mozilla-Firefox)
 * You can try here: [Mozilla Contribution](https://www.mozilla.org/en-US/contribute/signup/)
 
 
