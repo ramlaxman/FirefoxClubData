@@ -10,3 +10,7 @@
 ## Detailed Club Roles - [Wiki](https://github.com/ramlaxman/Mozilla-Club-Guide/wiki)
 ## Web Dev, Teaching, Other Ideas - [Issues](https://github.com/ramlaxman/Mozilla-Club-Guide/issues)
 ## Last but Very Important: [Your Favorite Area of Contribution](http://whatcanidoformozilla.org)
+
+## From Mozilla side,
+- ### [Webdev](https://mozilla.github.io/webdev/)
+- ### [Open Leadership](https://mozilla.github.io/open-leadership-training-series/)
