@@ -7,4 +7,5 @@
 - Become a contributor in their area of choice.
 - Your contributions are welcome.
 
-#### Detailed Club Roles: [Wiki](https://github.com/ramlaxman/Mozilla-Club-Guide/wiki)
+## Detailed Club Roles: [Wiki](https://github.com/ramlaxman/Mozilla-Club-Guide/wiki)
+## Web Dev, Teaching, Other Ideas:[Issues](https://github.com/ramlaxman/Mozilla-Club-Guide/issues)
