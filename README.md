@@ -6,3 +6,5 @@
 - A detailed oriented guide to help club for "Getting started" faster
 - Become a contributor in their area of choice.
 - Your contributions are welcome.
+
+#### Details Club Roles: [Wiki](https://github.com/ramlaxman/Mozilla-Club-Guide/wiki)
