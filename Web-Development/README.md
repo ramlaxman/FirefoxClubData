@@ -20,6 +20,10 @@
 * You can also read my other answers [here](https://www.quora.com/profile/Mayur-Patil-8/answers/Mozilla-Firefox)
 * You can try here: [Mozilla Contribution](https://www.mozilla.org/en-US/contribute/signup/)
 
+* I found some excellent resource for bug identification and solving:
+  - [Bug Hunting Resource](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Find_a_bug_we%27ve_identified_as_a_good_fit_for_new_contributors).
+
+
 
 * There are even many ways to contribute to the Mozilla mission without programming.
 * If getting involved in design, support, translation, testing, or other types of contributions sparks your interest please see the Volunteer Opportunities page
